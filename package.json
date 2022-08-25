@@ -55,9 +55,9 @@
     "warning": "^4.0.3"
   },
   "peerDependencies": {
-    "leaflet": "^1.6.0",
-    "react": "^16.8.0 || ^17.0.0",
-    "react-dom": "^16.8.0  || ^17.0.0"
+    "leaflet": "^1.7.1",
+    "react": "^16.8.0 || ^17.0.0 || ^18.0.0",
+    "react-dom": "^16.8.0  || ^17.0.0 || ^18.0.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.12.1",
